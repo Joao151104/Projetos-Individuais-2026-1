@@ -1,0 +1,657 @@
+{
+  "file_id": "5ee934ec-2796-431a-98fc-d8af2f192708",
+  "document_hash": "03df95a8421f04f9f14fbcb2b1805517ecbdf6ff129b41b121ff14517ade6838",
+  "source_file": "/Users/joaofilipedeoliveirasouza/SML_T1/PDF/dados.pdf",
+  "text_extraction": [
+    {
+      "page": 1,
+      "structured_text": {
+        "titulo": "Boletim Informativo de Crédito Imobiliário e Poupança",
+        "data_referencia": "março, 2026",
+        "fonte": "ABECIP",
+        "destaques": {
+          "Captação Líquida": "R$ 9,09 bilhões",
+          "Saldo": "R$ 748,6 bilhões",
+          "Valor dos Financiamentos": "R$ 18,48 bilhões",
+          "Quantidade de Imóveis": "54,6 mil imóveis"
+        },
+        "secoes": [
+          {
+            "titulo": "Desempenho do Crédito Imobiliário",
+            "paragrafos": [
+              "Em março de 2026, os financiamentos imobiliários com recursos das cadernetas do Sistema Brasileiro de Poupança e Empréstimo (SBPE) alcançaram R$ 18,5 bilhões. Na comparação com fevereiro, houve alta de 56,9%. Em relação a março do ano passado, ocorreu elevação de 53,9%. Foi o quarto melhor resultado mensal na série histórica.",
+              "No primeiro trimestre deste ano, os financiamentos imobiliários com recursos da poupança somaram R$ 42,4 bilhões, resultado 11,9% maior que o registrado no mesmo período do ano passado."
+            ],
+            "indicadores": {}
+          }
+        ]
+      },
+      "llm_error": null
+    },
+    {
+      "page": 2,
+      "structured_text": {
+        "titulo": "Financiamentos Imobiliários - Unidades",
+        "data_referencia": "março de 2026",
+        "fonte": "Área de Inteligência de Mercado da ABECIP",
+        "destaques": {},
+        "secoes": [
+          {
+            "titulo": "Resumo Financeiro",
+            "paragrafos": [
+              "Em termos acumulados, o montante financiado nos últimos 12 meses (abril de 2025 a março de 2026) somou R$ 160,8 bilhões nas modalidades de aquisição e construção, mostrando redução de 13,5% em relação ao período precedente."
+            ],
+            "indicadores": {
+              "montante_financiado": "R$ 160,8 bilhões",
+              "redução_percentual": "13,5%"
+            }
+          },
+          {
+            "titulo": "Financiamentos em Março de 2026",
+            "paragrafos": [
+              "Em março de 2026, foram financiadas aquisições e construções de 54,6 mil imóveis. O número representa crescimento de 55,5% em relação a fevereiro. Comparado a março do ano passado, verificou-se alta de 59,2%.",
+              "54,6 mil foi a quarta maior quantidade de imóveis financiados em um mês, segundo a série histórica."
+            ],
+            "indicadores": {
+              "imoveis_financiados": "54,6 mil",
+              "crescimento_fevereiro": "55,5%",
+              "alta_marco_anterior": "59,2%"
+            }
+          }
+        ]
+      },
+      "llm_error": null
+    },
+    {
+      "page": 3,
+      "structured_text": {
+        "titulo": "Financiamento de Imóveis",
+        "data_referencia": "março de 2026",
+        "fonte": "Área de Inteligência de Mercado da ABECIP",
+        "destaques": {},
+        "secoes": [
+          {
+            "titulo": "Financiamento nos primeiros meses de 2026",
+            "paragrafos": [
+              "Nos primeiros três meses de 2026, o montante financiado somou 125,5 mil imóveis nas modalidades de aquisição e construção, mostrando elevação de 15,7% em relação aos três primeiros meses do ano passado."
+            ],
+            "indicadores": {
+              "montante_financiado": "125,5 mil",
+              "elevação": "15,7%"
+            }
+          },
+          {
+            "titulo": "Financiamento nos últimos 12 meses",
+            "paragrafos": [
+              "Nos últimos 12 meses encerrados em março de 2026, foram financiados, com recursos da poupança SBPE, 474,7 mil imóveis, mostrando recuo de 12,7% em relação aos 12 meses anteriores."
+            ],
+            "indicadores": {
+              "montante_financiado": "474,7 mil",
+              "recuo": "12,7%"
+            }
+          }
+        ]
+      },
+      "llm_error": null
+    },
+    {
+      "page": 4,
+      "structured_text": {
+        "titulo": "Financiamentos Imobiliários com Recursos Livres",
+        "data_referencia": "março de 2026",
+        "fonte": "Área de Inteligência de Mercado da ABECIP",
+        "destaques": {},
+        "secoes": [
+          {
+            "titulo": "Valores Financiados",
+            "paragrafos": [
+              "Em março de 2026, as operações de financiamento imobiliário com recursos livres somaram R$ 2,01 bilhões, ficando 47,7% maior que o volume de fevereiro.",
+              "Comparado ao mesmo período do ano passado, mostrou alta de 19,7%.",
+              "No primeiro trimestre deste ano, essas operações somaram R$ 5,64 bilhões, com alta de 5,9% em relação ao volume financiado nos três primeiros meses do ano passado."
+            ],
+            "indicadores": {
+              "valor_financiado_marco": "R$ 2,01 bilhões",
+              "crescimento_fevereiro": "47,7%",
+              "crescimento_anual": "19,7%",
+              "valor_financiado_trimestre": "R$ 5,64 bilhões",
+              "crescimento_trimestre_anterior": "5,9%"
+            }
+          },
+          {
+            "titulo": "Unidades Financiadas",
+            "paragrafos": [
+              "Os financiados com funding livre viabilizaram operações de aquisição e construção de 11 mil imóveis em março de 2026, representando alta de 39,2% em relação a fevereiro.",
+              "Comparado a março do ano passado, verificou-se aumento de 13,1%.",
+              "Entre janeiro e março deste ano, foram financiadas 31,8 mil unidades, 4,8% maior que no mesmo período de 2025."
+            ],
+            "indicadores": {
+              "unidades_financiadas_marco": "11 mil",
+              "crescimento_fevereiro_unidades": "39,2%",
+              "crescimento_anual_unidades": "13,1%",
+              "unidades_financiadas_trimestre": "31,8 mil",
+              "crescimento_trimestre_anterior_unidades": "4,8%"
+            }
+          }
+        ]
+      },
+      "llm_error": null
+    },
+    {
+      "page": 5,
+      "structured_text": {
+        "titulo": "Poupança SBPE",
+        "data_referencia": "março de 2026",
+        "fonte": "Área de Inteligência de Mercado da ABECIP",
+        "destaques": {},
+        "secoes": [
+          {
+            "titulo": "Captação Líquida",
+            "paragrafos": [
+              "Em março de 2026, a poupança SBPE manteve-se com desempenho negativo.",
+              "A captação líquida foi de -R$ 9,1 bilhões, embora negativo o resultado ficou relativamente melhor do que o observado em março do ano passado (-R$ 9,2 bilhões).",
+              "No primeiro trimestre deste ano, a captação líquida acumulou -R$ 31,97 bilhões, também ligeiramente melhor que o registrado no mesmo período do ano passado (-R$ 34,96 bilhões)."
+            ],
+            "indicadores": {
+              "captação_liquida_marco": "-R$ 9,1 bilhões",
+              "captação_liquida_marco_anterior": "-R$ 9,2 bilhões",
+              "captação_liquida_primeiro_trimestre": "-R$ 31,97 bilhões",
+              "captação_liquida_primeiro_trimestre_anterior": "-R$ 34,96 bilhões"
+            }
+          },
+          {
+            "titulo": "Saldo",
+            "paragrafos": [
+              "O saldo das cadernetas atingiu R$ 748,6 bilhões em março de 2026, mostrando pequeno recuo de 0,59% em relação a fevereiro.",
+              "Comparado ao mesmo período do ano passado, demonstrou ligeira redução de 0,47%, conforme mostrado no gráfico abaixo."
+            ],
+            "indicadores": {
+              "saldo_marco": "R$ 748,6 bilhões",
+              "recuo_fevereiro": "0,59%",
+              "reducao_anterior": "0,47%"
+            }
+          },
+          {
+            "titulo": "Série Histórica",
+            "paragrafos": [
+              "De acordo com a série histórica dos últimos 32 anos, em 20 deles a captação líquida de março ficou no campo negativo."
+            ],
+            "indicadores": {}
+          }
+        ]
+      },
+      "llm_error": null
+    },
+    {
+      "page": 6,
+      "structured_text": {
+        "titulo": "Outros Indicadores",
+        "data_referencia": null,
+        "fonte": "Anbima, Banco Central, BM&F Bovespa e IBGE.",
+        "destaques": {},
+        "secoes": [
+          {
+            "titulo": "Rentabilidade Acumulada no Ano",
+            "paragrafos": [
+              "(1) Rendimento bruto",
+              "(2) Rendimento líquido de IR",
+              "(3) A partir de 1/10/15 entrou em vigor a nova classificação de fundos de investimento ANBIMA.",
+              "(*) 2026 dados referentes aos 3 primeiros meses do ano",
+              "Desenvolvido pela Área de Inteligência de Mercado da ABECIP"
+            ],
+            "indicadores": {}
+          }
+        ]
+      },
+      "llm_error": null
+    },
+    {
+      "page": 7,
+      "structured_text": {
+        "titulo": "Indicadores do Crédito Imobiliário SBPE",
+        "data_referencia": null,
+        "fonte": "Desenvolvido pela Área de Inteligência de Mercado da ABECIP",
+        "destaques": {},
+        "secoes": []
+      },
+      "llm_error": null
+    },
+    {
+      "page": 8,
+      "structured_text": {
+        "titulo": "Indicadores do Crédito Imobiliário SBPE",
+        "data_referencia": null,
+        "fonte": "Desenvolvido pela Área de Inteligência de Mercado da ABECIP",
+        "destaques": {},
+        "secoes": [
+          {
+            "titulo": "Informações Gerais",
+            "paragrafos": [
+              "Ordenado pela coluna de valor no ano (em azul).",
+              "Instituições não citadas não fizeram operações no ano e / ou ainda não fazem parte da amostra de dados da Abecip.",
+              "Os dados da amostra passaram por processo de revisão, que incluiu conferência, validação e ajuste das informações originalmente divulgadas.",
+              "As revisões não alteram a metodologia da pesquisa e visam aprimorar a consistência e a precisão dos resultados apresentados."
+            ],
+            "indicadores": {}
+          }
+        ]
+      },
+      "llm_error": null
+    }
+  ],
+  "table_from_image_extraction": [
+    {
+      "table_name": "Indicadores",
+      "data": [
+        {
+          "indicador": "CDI",
+          "2018": 6.42,
+          "2019": 5.96,
+          "2020": 4.22,
+          "2021": 12.39,
+          "2022": 14.32,
+          "2023": 3.41,
+          "2025": null,
+          "2026": null
+        },
+        {
+          "indicador": "Poupança (antiga)",
+          "2018": 6.17,
+          "2019": 6.17,
+          "2020": 7.9,
+          "2021": 8.74,
+          "2022": 7.83,
+          "2023": 1.98,
+          "2025": null,
+          "2026": null
+        },
+        {
+          "indicador": "Poupança (nova)",
+          "2018": 4.62,
+          "2019": 4.26,
+          "2020": 2.99,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2025": null,
+          "2026": null
+        },
+        {
+          "indicador": "Fundo Referenciado DI",
+          "2018": 6.25,
+          "2019": 5.74,
+          "2020": 3.62,
+          "2021": 9.62,
+          "2022": 10.73,
+          "2023": 3.37,
+          "2025": null,
+          "2026": null
+        },
+        {
+          "indicador": "Ibovespa",
+          "2018": 15.03,
+          "2019": 31.29,
+          "2020": -11.41,
+          "2021": 2.62,
+          "2022": 0.62,
+          "2023": null,
+          "2025": null,
+          "2026": null
+        },
+        {
+          "indicador": "Índice Imobiliário (Bovespa)",
+          "2018": 6.7,
+          "2019": 2.27,
+          "2020": -31.14,
+          "2021": 4.19,
+          "2022": 0.62,
+          "2023": null,
+          "2025": null,
+          "2026": null
+        },
+        {
+          "indicador": "IPCA",
+          "2018": 3.75,
+          "2019": 3.41,
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "2023": null,
+          "2025": null,
+          "2026": null
+        }
+      ],
+      "totals": {
+        "2018": 37.92,
+        "2019": 50.69,
+        "2020": -31.14,
+        "2021": 24.21,
+        "2022": 19.58,
+        "2023": 8.76,
+        "2025": null,
+        "2026": null
+      },
+      "source": [
+        "Fonte: Banco Central"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "table_name": "Aquisição",
+      "data": [
+        {
+          "agente": "CAIXA",
+          "mar_2026": {
+            "rs_milhoes": 5894.2,
+            "unidades": 18550
+          },
+          "ano_2026": {
+            "rs_milhoes": 14015.2,
+            "unidades": 44672
+          }
+        },
+        {
+          "agente": "ITAÚ UNIBANCO",
+          "mar_2026": {
+            "rs_milhoes": 5200.0,
+            "unidades": 15000
+          },
+          "ano_2026": {
+            "rs_milhoes": 12000.0,
+            "unidades": 40000
+          }
+        },
+        {
+          "agente": "BRADESCO",
+          "mar_2026": {
+            "rs_milhoes": 1254.1,
+            "unidades": 4000
+          },
+          "ano_2026": {
+            "rs_milhoes": 3000.0,
+            "unidades": 10000
+          }
+        },
+        {
+          "agente": "SANTANDER",
+          "mar_2026": {
+            "rs_milhoes": 1264.2,
+            "unidades": 5000
+          },
+          "ano_2026": {
+            "rs_milhoes": 3500.0,
+            "unidades": 12000
+          }
+        },
+        {
+          "agente": "BRB",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 491.5,
+            "unidades": 1500
+          }
+        },
+        {
+          "agente": "BANCO DO BRASIL",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 2000.0,
+            "unidades": 6000
+          }
+        },
+        {
+          "agente": "BANPARÁ",
+          "mar_2026": {
+            "rs_milhoes": 15.6,
+            "unidades": 50
+          },
+          "ano_2026": {
+            "rs_milhoes": 30.0,
+            "unidades": 100
+          }
+        },
+        {
+          "agente": "BANRISUL",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "ALIOS",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "POUPEX",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 5.1,
+            "unidades": 20
+          }
+        }
+      ],
+      "totals": {
+        "rs_milhoes": 12602.0,
+        "unidades": 31767
+      },
+      "source": [],
+      "confidence": 1.0
+    },
+    {
+      "table_name": "Aquisição e Construção",
+      "data": [
+        {
+          "agente": "CAIXA",
+          "mar_2026": {
+            "rs_milhoes": 4320.5,
+            "unidades": 33544
+          },
+          "ano_2026": {
+            "rs_milhoes": 21415.9,
+            "unidades": 125476
+          }
+        },
+        {
+          "agente": "ITAÚ UNIBANCO",
+          "mar_2026": {
+            "rs_milhoes": 320.0,
+            "unidades": 12491
+          },
+          "ano_2026": {
+            "rs_milhoes": 10241.9,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "BRADESCO",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "SANTANDER",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "BRB",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "BANCO DO BRASIL",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "BANRISUL",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "BANPARÁ",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "POUPEX",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "AILOS",
+          "mar_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0.0,
+            "unidades": 0
+          }
+        }
+      ],
+      "totals": {
+        "rs_milhoes": 18481.2,
+        "unidades": 54236.8
+      },
+      "source": [],
+      "confidence": 1.0
+    },
+    {
+      "table_name": "Construção",
+      "data": [
+        {
+          "agente": "CAIXA",
+          "mar_2026": {
+            "rs_milhoes": 3318.6,
+            "unidades": 16899
+          },
+          "ano_2026": {
+            "rs_milhoes": 7400.7,
+            "unidades": 36692
+          }
+        },
+        {
+          "agente": "BRADESCO",
+          "mar_2026": {
+            "rs_milhoes": 2775.0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "ITAÚ UNIBANCO",
+          "mar_2026": {
+            "rs_milhoes": 807.5,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 852.6,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "BRB",
+          "mar_2026": {
+            "rs_milhoes": 12.6,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 30.6,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "BANRISUL",
+          "mar_2026": {
+            "rs_milhoes": 1.7,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 3.1,
+            "unidades": 0
+          }
+        },
+        {
+          "agente": "POUPEX",
+          "mar_2026": {
+            "rs_milhoes": 0,
+            "unidades": 0
+          },
+          "ano_2026": {
+            "rs_milhoes": 0,
+            "unidades": 0
+          }
+        }
+      ],
+      "totals": {
+        "rs_milhoes": 5879.2,
+        "unidades": 23612
+      },
+      "confidence": 0.98
+    }
+  ]
+}
